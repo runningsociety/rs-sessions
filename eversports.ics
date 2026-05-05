@@ -8,416 +8,416 @@ X-WR-CALDESC:Running Society – alle Sessions mit Teilnehmern
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
 UID:eversports-83871660@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260401T163000Z
 DTEND:20260401T174500Z
-SUMMARY:RS FIGHT · BERLIN · 3 TN
-DESCRIPTION:Teilnehmer: 3/75\nDirect: DELTOS Gaming\, Alexander M\nUrban Sports Club: Konstantinos Kontothanasis\nQuellen: Direct: 2 · Urban Sports Club: 1\nStadt: Berlin
+SUMMARY:RS FIGHT · BERLIN · 3 Anmeldungen
+DESCRIPTION:3 Anmeldungen\nDirect: 2 · Urban Sports Club: 1\nBerlin
 LOCATION:Friedrichsbrücke
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-76963311@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260403T163000Z
 DTEND:20260403T174500Z
-SUMMARY:RS POWER · MUNICH · 12 TN
-DESCRIPTION:Teilnehmer: 12/50\nWellpass: Oscar Ahuja\, Matthias Beck\, Friederike Hempel\, Christina Schedel\, Fanny Sternfeld\nDirect: Jérémy Dievart (CORE SEASON)\, David Gutknecht (CORE SEASON)\, Laura Koutas (CORE)\, Kai Yang Lee (CORE SEASON)\, Laura Schiffl\, Vladimir Stanojevic\, Олег Токмачев (CORE)\nQuellen: Direct: 7 · Wellpass: 5\nStadt: München
+SUMMARY:RS POWER · MUNICH · 12 Anmeldungen
+DESCRIPTION:12 Anmeldungen\nDirect: 7 · Wellpass: 5\nMünchen
 LOCATION:Bavaria-Statue
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-83900021@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260405T080000Z
 DTEND:20260405T093000Z
-SUMMARY:RS LONGFIGHT · MUNICH · 0 TN
-DESCRIPTION:Teilnehmer: 0/50\nStadt: München
+SUMMARY:RS LONGFIGHT · MUNICH · 0 Anmeldungen
+DESCRIPTION:0 Anmeldungen\nMünchen
 LOCATION:Suuapinga Leopoldstrasse
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-75279165@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260406T163000Z
 DTEND:20260406T174500Z
-SUMMARY:RS FIGHT · MUNICH · 22 TN
-DESCRIPTION:Teilnehmer: 22/75\nDirect: Marie Augustin (CORE SEASON)\, Francesca Berardi (CORE SEASON)\, Johanna Dalen (CORE MEMBER)\, Martin Goepfert (CORE MEMBER)\, David Gutknecht (CORE SEASON)\, Ferit Kohn (CORE MEMBER)\, Laura Koutas (CORE)\, Christian Krammer (CORE MEMBER)\, Kai Yang Lee (CORE SEASON)\, Sophia Sigalov\, Manuel Stenzel (CORE MEMBER)\, Олег Токмачев (CORE)\nWellpass: Carolin Bader\, Jacopo Baroni\, Axel Ganzert\, Laura Gernert\, Philipp Huebsch\, Arno Kersche\, Florian Sattler\, Dominik Vogel\nWellhub: Melinda Kirschbaum\nUrban Sports Club: Michael Meyer\nQuellen: Direct: 12 · Urban Sports Club: 1 · Wellhub: 1 · Wellpass: 8\nStadt: München
+SUMMARY:RS FIGHT · MUNICH · 22 Anmeldungen
+DESCRIPTION:22 Anmeldungen\nDirect: 12 · Urban Sports Club: 1 · Wellhub: 1 · Wellpass: 8\nMünchen
 LOCATION:top4running Oberanger
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-83871661@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260408T163000Z
 DTEND:20260408T174500Z
-SUMMARY:RS FIGHT · BERLIN · 3 TN
-DESCRIPTION:Teilnehmer: 3/75\nClasspass: Daria Popova\nWellpass: Timo Sattler\nWellhub: Gabriele Steiger\nQuellen: Classpass: 1 · Wellhub: 1 · Wellpass: 1\nStadt: Berlin
+SUMMARY:RS FIGHT · BERLIN · 3 Anmeldungen
+DESCRIPTION:3 Anmeldungen\nClasspass: 1 · Wellhub: 1 · Wellpass: 1\nBerlin
 LOCATION:Friedrichsbrücke
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-83900109@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260410T163000Z
 DTEND:20260410T173000Z
-SUMMARY:RS POWER · MUNICH · 13 TN
-DESCRIPTION:Teilnehmer: 13/50\nDirect: Lea Ahokas\, Johanna Dalen (CORE MEMBER)\, Martin Goepfert (CORE MEMBER)\, Kasandra Patz\, Олег Токмачев (CORE)\nUrban Sports Club: Ronah Berfelde\, Malthe Krüger\, Hippolyte Robin\, Lea Strohm\nWellpass: Benjamin Lang\, Stefanie Ludwig\, Florian Preiss\, Fanny Sternfeld\nQuellen: Direct: 5 · Urban Sports Club: 4 · Wellpass: 4\nStadt: München
+SUMMARY:RS POWER · MUNICH · 13 Anmeldungen
+DESCRIPTION:13 Anmeldungen\nDirect: 5 · Urban Sports Club: 4 · Wellpass: 4\nMünchen
 LOCATION:Bavaria-Statue
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-83900022@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260412T080000Z
 DTEND:20260412T093000Z
-SUMMARY:RS x DRYLL · LONGFIGHT · MUNICH · 28 TN
-DESCRIPTION:Teilnehmer: 28/50\nDirect: Marawan Abdelrahim\, Ahmed Behairy\, Oliver Bock\, Raphael Budday\, Jérémy Dievart (CORE SEASON)\, Mahmoud El Minawi\, Domenico Gonzalez Rossi\, Solène Guisard (CORE SEASON)\, Claudia Häuser\, Julian Hofbauer (CORE SEASON)\, Sabrina Mayer\, Natalie Miklikova\, Habiba Mostafa\, Selim Mourad\, carolina paez (CORE SEASON)\, leonardo ruiz (CORE MEMBER)\, Lukas Stimmelmayr (CORE)\, Sven Stumm (CORE MEMBER)\, Carlotta Walterscheid-Müller (CORE MEMBER)\, Marietta Walterscheid-Müller (CORE MEMBER)\nWellpass: Timothy Hobbs\, Andreas Janiak\, Tizian Maier\, Victor Silberer\, Carlos Villamil-Lopez\, Moritz von Nagel\nUrban Sports Club: Giulia Magno\, Hippolyte Robin\nQuellen: Direct: 20 · Urban Sports Club: 2 · Wellpass: 6\nStadt: München
+SUMMARY:RS x DRYLL · LONGFIGHT · MUNICH · 28 Anmeldungen
+DESCRIPTION:28 Anmeldungen\nDirect: 20 · Urban Sports Club: 2 · Wellpass: 6\nMünchen
 LOCATION:Suuapinga Leopoldstrasse
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-84305963@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260412T080000Z
 DTEND:20260412T100000Z
-SUMMARY:RS x DRYLL · LONGFIGHT · BERLIN · 2 TN
-DESCRIPTION:Teilnehmer: 2/20\nDirect: Alexander M\nWellpass: Timo Sattler\nQuellen: Direct: 1 · Wellpass: 1\nStadt: Berlin
+SUMMARY:RS x DRYLL · LONGFIGHT · BERLIN · 2 Anmeldungen
+DESCRIPTION:2 Anmeldungen\nDirect: 1 · Wellpass: 1\nBerlin
 LOCATION:Café Schröder
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-75279166@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260413T163000Z
 DTEND:20260413T174500Z
-SUMMARY:RS FIGHT · MUNICH · 25 TN
-DESCRIPTION:Teilnehmer: 25/75\nDirect: Stefan Adlfinger (CORE MEMBER)\, Sára Hradilová (CORE SEASON)\, Christian Krammer (CORE MEMBER)\, Vincenzo Leone (CORE SEASON)\, Elisabeth Lucke (CORE MEMBER)\, Marco Pendt (CORE MEMBER)\, Keeto Peterseil (CORE MEMBER)\, Nicole Stadtmüller\, Manuel Stenzel (CORE MEMBER)\, Luisa Streit\, Олег Токмачев (CORE)\nWellpass: Jacopo Baroni\, Axel Ganzert\, Arno Kersche\, Charlotte Kuhn\, Carolin Lipowsky\, Dominik Vogel\, Theresa Werner\nUrban Sports Club: Jose Delius\, Caroline Kinnula\, Michael Meyer\, Marten Müller\, Clara Sonntag\, Hannah Stadtmüller\, Anina Zellhöfer (CORE)\nQuellen: Direct: 11 · Urban Sports Club: 7 · Wellpass: 7\nStadt: München
+SUMMARY:RS FIGHT · MUNICH · 25 Anmeldungen
+DESCRIPTION:25 Anmeldungen\nDirect: 11 · Urban Sports Club: 7 · Wellpass: 7\nMünchen
 LOCATION:top4running Oberanger
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-84219541@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260413T163000Z
 DTEND:20260413T174500Z
-SUMMARY:RS FIGHT · HAMBURG · 1 TN
-DESCRIPTION:Teilnehmer: 1/50\nDirect: Teresa Schaller (STAFF)\nQuellen: Direct: 1\nStadt: Hamburg
+SUMMARY:RS FIGHT · HAMBURG · 1 Anmeldungen
+DESCRIPTION:1 Anmeldungen\nDirect: 1\nHamburg
 LOCATION:top4running Store
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-83871662@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260415T163000Z
 DTEND:20260415T174500Z
-SUMMARY:RS FIGHT · BERLIN · 6 TN
-DESCRIPTION:Teilnehmer: 6/75\nWellpass: Luisa Garcia\, Timo Sattler\nDirect: Alexander M\, Samuel Sabare\nUrban Sports Club: ondry priebe\nWellhub: Gabriele Steiger\nQuellen: Direct: 2 · Urban Sports Club: 1 · Wellhub: 1 · Wellpass: 2\nStadt: Berlin
+SUMMARY:RS FIGHT · BERLIN · 6 Anmeldungen
+DESCRIPTION:6 Anmeldungen\nDirect: 2 · Urban Sports Club: 1 · Wellhub: 1 · Wellpass: 2\nBerlin
 LOCATION:Friedrichsbrücke
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-84412140@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260417T163000Z
 DTEND:20260417T173000Z
-SUMMARY:RS POWER · MUNICH · 22 TN
-DESCRIPTION:Teilnehmer: 22/45\nWellpass: Arturo Apu Chinchilla\, Laura Gernert\, Eden Halberstadt\, Friederike Hempel\, Benjamin Lang\, Tizian Maier\, Sebastian Niederländer\, Florian Preiss\, Hanna Pudzich\, Victor Silberer\, Moritz Weitbacher\nUrban Sports Club: Philipp Beetz\, Hippolyte Robin\, Lea Strohm\nDirect: Jérémy Dievart (CORE SEASON)\, Solène Guisard (CORE SEASON)\, David Gutknecht (CORE SEASON)\, Sára Hradilová (CORE SEASON)\, Laura Koutas (CORE)\, Kai Yang Lee (CORE SEASON)\, leonardo ruiz (CORE MEMBER)\, Олег Токмачев (CORE)\nQuellen: Direct: 8 · Urban Sports Club: 3 · Wellpass: 11\nStadt: München
+SUMMARY:RS POWER · MUNICH · 22 Anmeldungen
+DESCRIPTION:22 Anmeldungen\nDirect: 8 · Urban Sports Club: 3 · Wellpass: 11\nMünchen
 LOCATION:Sportanlage Schyrenbad\, Sachsenstr. 2
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-83900023@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260419T080000Z
 DTEND:20260419T093000Z
-SUMMARY:RS LONGFIGHT · MUNICH · 9 TN
-DESCRIPTION:Teilnehmer: 9/50\nWellhub: Max Bennigsen\nDirect: Helena Edelmann (CORE SEASON)\, Philipp Kerth\, katrina kopp\, Markus Schaffner\, Sven Stumm (CORE MEMBER)\nUrban Sports Club: Fabian Falter\, Hippolyte Robin\nWellpass: Timothy Hobbs\nQuellen: Direct: 5 · Urban Sports Club: 2 · Wellhub: 1 · Wellpass: 1\nStadt: München
+SUMMARY:RS LONGFIGHT · MUNICH · 9 Anmeldungen
+DESCRIPTION:9 Anmeldungen\nDirect: 5 · Urban Sports Club: 2 · Wellhub: 1 · Wellpass: 1\nMünchen
 LOCATION:Suuapinga Leopoldstrasse
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-75279167@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260420T163000Z
 DTEND:20260420T174500Z
-SUMMARY:RS FIGHT · MUNICH · 35 TN
-DESCRIPTION:Teilnehmer: 35/75\nUrban Sports Club: Damian Ezequiel Alonso Vazquez\, Michael Meyer\, Flora Müller\, Maria Roccatagliata\, Jennifer Rueda\, Theresa Schichor\, Nicole Schlenz\, Lucia Theiler\nWellpass: Arturo Apu Chinchilla\, Jacopo Baroni\, Rosalie Birkle\, Elfi Fertl\, Axel Ganzert\, Mirjam Hoechst\, Philipp Huebsch\, Arno Kersche\, Charlotte Kuhn\, Lucia Leidmann\, Felix Ruf\, Dominik Vogel\, Theresa Werner\nDirect: Marie Augustin (CORE SEASON)\, Ferit Kohn (CORE MEMBER)\, Laura Koutas (CORE)\, Christian Krammer (CORE MEMBER)\, Kai Yang Lee (CORE SEASON)\, Vincenzo Leone (CORE SEASON)\, Gerardo Daniel Lopez Alguiar (CORE MEMBER)\, Keeto Peterseil (CORE MEMBER)\, Elias Stelling\, Manuel Stenzel (CORE MEMBER)\, Олег Токмачев (CORE)\nWellhub: David Jans\, Fabian Laub\, Moritz Liebl\nQuellen: Direct: 11 · Urban Sports Club: 8 · Wellhub: 3 · Wellpass: 13\nStadt: München
+SUMMARY:RS FIGHT · MUNICH · 35 Anmeldungen
+DESCRIPTION:35 Anmeldungen\nDirect: 11 · Urban Sports Club: 8 · Wellhub: 3 · Wellpass: 13\nMünchen
 LOCATION:top4running Oberanger
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-84219542@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260420T163000Z
 DTEND:20260420T174500Z
-SUMMARY:RS FIGHT · HAMBURG · 1 TN
-DESCRIPTION:Teilnehmer: 1/50\nWellpass: Lukas Mohrbeck\nQuellen: Wellpass: 1\nStadt: Hamburg
+SUMMARY:RS FIGHT · HAMBURG · 1 Anmeldungen
+DESCRIPTION:1 Anmeldungen\nWellpass: 1\nHamburg
 LOCATION:top4running Store
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-83871663@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260422T163000Z
 DTEND:20260422T174500Z
-SUMMARY:RS FIGHT · BERLIN · 11 TN
-DESCRIPTION:Teilnehmer: 11/75\nUrban Sports Club: Daniyar Abdimomunov\, Pia Jakobi\, ondry priebe\nDirect: Josephine Fetzner\, Alexander M\, Emanuel Piper\nWellpass: Luisa Garcia\, Timo Sattler\nWellhub: Guus Ooijen\, Gabriele Steiger\nClasspass: Moritz Schüßler\nQuellen: Classpass: 1 · Direct: 3 · Urban Sports Club: 3 · Wellhub: 2 · Wellpass: 2\nStadt: Berlin
+SUMMARY:RS FIGHT · BERLIN · 11 Anmeldungen
+DESCRIPTION:11 Anmeldungen\nClasspass: 1 · Direct: 3 · Urban Sports Club: 3 · Wellhub: 2 · Wellpass: 2\nBerlin
 LOCATION:Friedrichsbrücke
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-84412141@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260424T163000Z
 DTEND:20260424T173000Z
-SUMMARY:RS POWER · MUNICH · 41 TN
-DESCRIPTION:Teilnehmer: 41/45\nWellpass: Arturo Apu Chinchilla\, Eleonora Balducci\, Carina Bösing\, Felicia Daxberg\, Martin Freihardt\, Gulnabat Gurbanova\, Friederike Hempel\, Pina Knauff\, Markus Magdolen\, Vanessa Magdolen\, Manuel Melo Sanchez\, Christina Schedel\, Tessa Schrewentigges\, Marc Steinke\, Fanny Sternfeld\, Alessa Kristina Vogler\nUrban Sports Club: Philipp Beetz\, Ronah Berfelde\, Laura Cifuentes\, Carolin Clarius\, Baris Cömert\, Evan Müller\, Sophie Röhrmoser\nDirect: Sinéad Boyle\, Frank Chelik\, cecilia chiolerio\, Jérémy Dievart (CORE SEASON)\, Solène Guisard (CORE SEASON)\, David Gutknecht (CORE SEASON)\, Harold Hublet\, Josef Kinseher\, Laura Koutas (CORE)\, Dmitrij Maltsev\, Kasandra Patz\, Daniela Pecho Cruz (CORE SEASON)\, Michaela Sax\, Julian Tresowski\, Theresa Unterlerchner\, Олег Токмачев (CORE)\nWellhub: Fabian Laub\, Yannik Waiz\nQuellen: Direct: 16 · Urban Sports Club: 7 · Wellhub: 2 · Wellpass: 16\nStadt: München
+SUMMARY:RS POWER · MUNICH · 41 Anmeldungen
+DESCRIPTION:41 Anmeldungen\nDirect: 16 · Urban Sports Club: 7 · Wellhub: 2 · Wellpass: 16\nMünchen
 LOCATION:Sportanlage Schyrenbad\, Sachsenstr. 2
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-83900024@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260426T080000Z
 DTEND:20260426T093000Z
-SUMMARY:RS LONGFIGHT · MUNICH · 15 TN
-DESCRIPTION:Teilnehmer: 15/50\nWellpass: Arturo Apu Chinchilla\, Martin Freihardt\, Timothy Hobbs\, Philipp Kerth\, Maximilian Rieder\nDirect: Philipp Bauer (CORE SEASON)\, Rafael Brandão (CORE SEASON)\, Helena Edelmann (CORE SEASON)\, Solène Guisard (CORE SEASON)\, David Gutknecht (CORE SEASON)\, Harold Hublet\, Олег Токмачев (CORE)\nUrban Sports Club: Murray Beaumont\, kahina Olafsson\nWellhub: Özlem Özdemir\nQuellen: Direct: 7 · Urban Sports Club: 2 · Wellhub: 1 · Wellpass: 5\nStadt: München
+SUMMARY:RS LONGFIGHT · MUNICH · 15 Anmeldungen
+DESCRIPTION:15 Anmeldungen\nDirect: 7 · Urban Sports Club: 2 · Wellhub: 1 · Wellpass: 5\nMünchen
 LOCATION:Suuapinga Leopoldstrasse
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-75279168@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260427T163000Z
 DTEND:20260427T174500Z
-SUMMARY:RS FIGHT · MUNICH · 28 TN
-DESCRIPTION:Teilnehmer: 28/75\nWellpass: Arturo Apu Chinchilla\, Jacopo Baroni\, Rosalie Birkle\, Axel Ganzert\, Philipp Huebsch\, Arno Kersche\, Charlotte Kuhn\, Steffen Rilling\, Theresa Werner\nUrban Sports Club: Philipp Beetz\, Evgeny Levinkov\, Jannik Mahr\, Carlos Martinez Carbajal\, Michael Meyer\, Marten Müller\, Patrick Neumann\, Hannah Stadtmüller\, Anina Zellhöfer (CORE)\nDirect: Jérémy Dievart (CORE SEASON)\, Ferit Kohn (CORE MEMBER)\, katrina kopp\, Vincenzo Leone (CORE SEASON)\, Gerardo Daniel Lopez Alguiar (CORE MEMBER)\, Paolo Molinari (CORE SEASON)\, Keeto Peterseil (CORE MEMBER)\, Lorena Wesle\, Олег Токмачев (CORE)\nWellhub: Melinda Kirschbaum\nQuellen: Direct: 9 · Urban Sports Club: 9 · Wellhub: 1 · Wellpass: 9\nStadt: München
+SUMMARY:RS FIGHT · MUNICH · 28 Anmeldungen
+DESCRIPTION:28 Anmeldungen\nDirect: 9 · Urban Sports Club: 9 · Wellhub: 1 · Wellpass: 9\nMünchen
 LOCATION:top4running Oberanger
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-84219543@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260427T163000Z
 DTEND:20260427T174500Z
-SUMMARY:RS FIGHT · HAMBURG · 1 TN
-DESCRIPTION:Teilnehmer: 1/50\nDirect: Melina Kürschner (STAFF)\nQuellen: Direct: 1\nStadt: Hamburg
+SUMMARY:RS FIGHT · HAMBURG · 1 Anmeldungen
+DESCRIPTION:1 Anmeldungen\nDirect: 1\nHamburg
 LOCATION:top4running Store
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-82431507@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260428T160000Z
 DTEND:20260428T170000Z
-SUMMARY:RS HYBRID · MACHEREI · 17 TN
-DESCRIPTION:Teilnehmer: 17/20\nDirect: Romain Charraud\, Sophie Fritzsche\, Andrea Gietl\, Elisa Gold\, Bärbel Heinze\, Julia Hrjesik\, Natali Kaufhold\, Lara Koeppen\, Alex Mirsky\, Ann-Christin Nickel\, Elisabeth Pekou\, Antonia Perzl\, Tobias Petry\, Marko Ristic\, Marie Schmitz\, Iryna Schneider\, Julia Schneidt\nQuellen: Direct: 17\nStadt: München
+SUMMARY:RS HYBRID · MACHEREI · 17 Anmeldungen
+DESCRIPTION:17 Anmeldungen\nDirect: 17\nMünchen
 LOCATION:Macherei Innenhof/Rooftop
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-83871664@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260429T163000Z
 DTEND:20260429T174500Z
-SUMMARY:RS FIGHT · BERLIN · 8 TN
-DESCRIPTION:Teilnehmer: 8/75\nUrban Sports Club: Daniyar Abdimomunov\, Till Bettin\, Konstantinos Kontothanasis\nWellpass: Luisa Garcia\, Timo Sattler\nWellhub: Nina Morgenstern\, Guus Ooijen\, Daniel Resner\nQuellen: Urban Sports Club: 3 · Wellhub: 3 · Wellpass: 2\nStadt: Berlin
+SUMMARY:RS FIGHT · BERLIN · 8 Anmeldungen
+DESCRIPTION:8 Anmeldungen\nUrban Sports Club: 3 · Wellhub: 3 · Wellpass: 2\nBerlin
 LOCATION:Friedrichsbrücke
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-83900025@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260503T080000Z
 DTEND:20260503T093000Z
-SUMMARY:RS LONGFIGHT · MUNICH · 13 TN
-DESCRIPTION:Teilnehmer: 13/50\nDirect: Philipp Bauer (CORE SEASON)\, Julian Hofbauer (CORE SEASON)\, Kai Yang Lee (CORE SEASON)\, leonardo ruiz (CORE MEMBER)\, Lukas Stimmelmayr (CORE)\nWellpass: Matthias Beck\, Martin Freihardt\, Timothy Hobbs\, Anja Kellerer\, Bennett Mix\, Caroline Schulz\, Carlos Villamil-Lopez\nUrban Sports Club: Marcel Schöllhorn\nQuellen: Direct: 5 · Urban Sports Club: 1 · Wellpass: 7\nStadt: München
+SUMMARY:RS LONGFIGHT · MUNICH · 13 Anmeldungen
+DESCRIPTION:13 Anmeldungen\nDirect: 5 · Urban Sports Club: 1 · Wellpass: 7\nMünchen
 LOCATION:Suuapinga Leopoldstrasse
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-84969975@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260504T163000Z
 DTEND:20260504T174500Z
-SUMMARY:RS FIGHT · MUNICH · 48 TN
-DESCRIPTION:Teilnehmer: 48/75\nDirect: Stefan Adlfinger (CORE MEMBER)\, Francesca Berardi (CORE SEASON)\, Jérémy Dievart (CORE SEASON)\, Alexia Freude\, Solène Guisard (CORE SEASON)\, Christian Krammer (CORE MEMBER)\, Vincenzo Leone (CORE SEASON)\, Theresa Oskar\, Chiara Porr\, Shelan Rassoul\, Tobias Rechenauer\, leonardo ruiz (CORE MEMBER)\, Manuel Stenzel (CORE MEMBER)\, Олег Токмачев (CORE)\nWellpass: Arturo Apu Chinchilla\, Christian Betz\, Maria Boger\, Elfi Fertl\, Axel Ganzert\, Ronny Georgi\, Kalman Györy\, Philipp Huebsch\, Arno Kersche\, Maya Krieger\, Charlotte Kuhn\, Benjamin Lang\, Carolin Lipowsky\, Tarek Lippmann\, Manuel Melo Sanchez\, ALEJANDRO PÉREZ SANJUÁN\, Nikolas Plößner\, Fabian Schrahe\, Pirmin Schuster\, Dominik Vogel\, Maren Weiskircher\, Theresa Werner\, Jannis Ziegler\nUrban Sports Club: Philipp Beetz\, Johannes Edenhofer\, Marco Gonzalez\, Maria Koller\, Evgeny Levinkov\, Jannik Mahr\, Carlos Martinez Carbajal\, Michael Meyer\, Patrick Neumann\nWellhub: David Jans\, Fabian Laub\nQuellen: Direct: 14 · Urban Sports Club: 9 · Wellhub: 2 · Wellpass: 23\nStadt: München
+SUMMARY:RS FIGHT · MUNICH · 48 Anmeldungen
+DESCRIPTION:48 Anmeldungen\nDirect: 14 · Urban Sports Club: 9 · Wellhub: 2 · Wellpass: 23\nMünchen
 LOCATION:top4running Oberanger
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-84219544@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260504T163000Z
 DTEND:20260504T174500Z
-SUMMARY:RS FIGHT · HAMBURG · 6 TN
-DESCRIPTION:Teilnehmer: 6/50\nUrban Sports Club: Luise Dietrich\nWellpass: Maria Heinze\, Lukas Mohrbeck\, Frank Wohlfahrt\nDirect: Anna Jürgens\, CindyEstefana SalazarNoguera\nQuellen: Direct: 2 · Urban Sports Club: 1 · Wellpass: 3\nStadt: Hamburg
+SUMMARY:RS FIGHT · HAMBURG · 6 Anmeldungen
+DESCRIPTION:6 Anmeldungen\nDirect: 2 · Urban Sports Club: 1 · Wellpass: 3\nHamburg
 LOCATION:top4running Store
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-83871665@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260506T163000Z
 DTEND:20260506T174500Z
-SUMMARY:RS FIGHT · BERLIN · 0/75
-DESCRIPTION:Anmeldungen: 0/75\nVerfügbar: 75\nQuellen: Direct: 1 · Wellhub: 1 · Urban Sports Club: 1\nStadt: Berlin
+SUMMARY:RS FIGHT · BERLIN · 0 Anmeldungen
+DESCRIPTION:0 Anmeldungen\nDirect: 1 · Wellhub: 1 · Urban Sports Club: 1\nBerlin
 LOCATION:Friedrichsbrücke
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-84412143@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260508T163000Z
 DTEND:20260508T173000Z
-SUMMARY:RS POWER · MUNICH · 0/45
-DESCRIPTION:Anmeldungen: 0/45\nVerfügbar: 45\nQuellen: Direct: 5 · Wellpass: 9 · Urban Sports Club: 6 · Wellhub: 1\nStadt: München
+SUMMARY:RS POWER · MUNICH · 0 Anmeldungen
+DESCRIPTION:0 Anmeldungen\nDirect: 5 · Wellpass: 9 · Urban Sports Club: 6 · Wellhub: 1\nMünchen
 LOCATION:Sportanlage Schyrenbad\, Sachsenstr. 2
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-84969976@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260511T163000Z
 DTEND:20260511T174500Z
-SUMMARY:RS FIGHT · MUNICH · 0/75
-DESCRIPTION:Anmeldungen: 0/75\nVerfügbar: 75\nQuellen: Urban Sports Club: 1\nStadt: München
+SUMMARY:RS FIGHT · MUNICH · 0 Anmeldungen
+DESCRIPTION:0 Anmeldungen\nUrban Sports Club: 1\nMünchen
 LOCATION:top4running Oberanger
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-84219545@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260511T163000Z
 DTEND:20260511T174500Z
-SUMMARY:RS FIGHT · HAMBURG · 0/50
-DESCRIPTION:Anmeldungen: 0/50\nVerfügbar: 50\nStadt: Hamburg
+SUMMARY:RS FIGHT · HAMBURG · 0 Anmeldungen
+DESCRIPTION:0 Anmeldungen\nHamburg
 LOCATION:top4running Store
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-82450323@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260512T160000Z
 DTEND:20260512T170000Z
-SUMMARY:RS HYBRID · MACHEREI · 0/20
-DESCRIPTION:Anmeldungen: 0/20\nVerfügbar: 20\nWarteliste: 3\nQuellen: Direct: 18 · Wellpass: 2\nStadt: München
+SUMMARY:RS HYBRID · MACHEREI · 0 Anmeldungen
+DESCRIPTION:0 Anmeldungen\nWarteliste: 3\nDirect: 18 · Wellpass: 2\nMünchen
 LOCATION:Macherei Innenhof/Rooftop
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-83871666@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260513T163000Z
 DTEND:20260513T174500Z
-SUMMARY:RS FIGHT · BERLIN · 0/75
-DESCRIPTION:Anmeldungen: 0/75\nVerfügbar: 75\nQuellen: Urban Sports Club: 2\nStadt: Berlin
+SUMMARY:RS FIGHT · BERLIN · 0 Anmeldungen
+DESCRIPTION:0 Anmeldungen\nUrban Sports Club: 2\nBerlin
 LOCATION:Friedrichsbrücke
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-84412144@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260515T163000Z
 DTEND:20260515T173000Z
-SUMMARY:RS POWER · MUNICH · 0/45
-DESCRIPTION:Anmeldungen: 0/45\nVerfügbar: 45\nQuellen: Wellpass: 4 · Urban Sports Club: 1\nStadt: München
+SUMMARY:RS POWER · MUNICH · 0 Anmeldungen
+DESCRIPTION:0 Anmeldungen\nWellpass: 4 · Urban Sports Club: 1\nMünchen
 LOCATION:Sportanlage Schyrenbad\, Sachsenstr. 2
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-83900027@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260517T080000Z
 DTEND:20260517T093000Z
-SUMMARY:RS LONGFIGHT · MUNICH · 0/50
-DESCRIPTION:Anmeldungen: 0/50\nVerfügbar: 50\nStadt: München
+SUMMARY:RS LONGFIGHT · MUNICH · 0 Anmeldungen
+DESCRIPTION:0 Anmeldungen\nMünchen
 LOCATION:Suuapinga Leopoldstrasse
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-84969977@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260518T163000Z
 DTEND:20260518T174500Z
-SUMMARY:RS FIGHT · MUNICH · 0/75
-DESCRIPTION:Anmeldungen: 0/75\nVerfügbar: 75\nQuellen: Direct: 1\nStadt: München
+SUMMARY:RS FIGHT · MUNICH · 0 Anmeldungen
+DESCRIPTION:0 Anmeldungen\nDirect: 1\nMünchen
 LOCATION:top4running Oberanger
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-84219546@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260518T163000Z
 DTEND:20260518T174500Z
-SUMMARY:RS FIGHT · HAMBURG · 0/50
-DESCRIPTION:Anmeldungen: 0/50\nVerfügbar: 50\nStadt: Hamburg
+SUMMARY:RS FIGHT · HAMBURG · 0 Anmeldungen
+DESCRIPTION:0 Anmeldungen\nHamburg
 LOCATION:top4running Store
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-83871667@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260520T163000Z
 DTEND:20260520T174500Z
-SUMMARY:RS FIGHT · BERLIN · 0/75
-DESCRIPTION:Anmeldungen: 0/75\nVerfügbar: 75\nStadt: Berlin
+SUMMARY:RS FIGHT · BERLIN · 0 Anmeldungen
+DESCRIPTION:0 Anmeldungen\nBerlin
 LOCATION:Friedrichsbrücke
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-84412145@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260522T163000Z
 DTEND:20260522T173000Z
-SUMMARY:RS POWER · MUNICH · 0/45
-DESCRIPTION:Anmeldungen: 0/45\nVerfügbar: 45\nQuellen: Wellpass: 1 · Direct: 2\nStadt: München
+SUMMARY:RS POWER · MUNICH · 0 Anmeldungen
+DESCRIPTION:0 Anmeldungen\nWellpass: 1 · Direct: 2\nMünchen
 LOCATION:Sportanlage Schyrenbad\, Sachsenstr. 2
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-83900028@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260524T080000Z
 DTEND:20260524T093000Z
-SUMMARY:RS LONGFIGHT · MUNICH · 0/50
-DESCRIPTION:Anmeldungen: 0/50\nVerfügbar: 50\nStadt: München
+SUMMARY:RS LONGFIGHT · MUNICH · 0 Anmeldungen
+DESCRIPTION:0 Anmeldungen\nMünchen
 LOCATION:Suuapinga Leopoldstrasse
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-84969978@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260525T163000Z
 DTEND:20260525T174500Z
-SUMMARY:RS FIGHT · MUNICH · 0/75
-DESCRIPTION:Anmeldungen: 0/75\nVerfügbar: 75\nStadt: München
+SUMMARY:RS FIGHT · MUNICH · 0 Anmeldungen
+DESCRIPTION:0 Anmeldungen\nMünchen
 LOCATION:top4running Oberanger
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-84219547@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260525T163000Z
 DTEND:20260525T174500Z
-SUMMARY:RS FIGHT · HAMBURG · 0/50
-DESCRIPTION:Anmeldungen: 0/50\nVerfügbar: 50\nStadt: Hamburg
+SUMMARY:RS FIGHT · HAMBURG · 0 Anmeldungen
+DESCRIPTION:0 Anmeldungen\nHamburg
 LOCATION:top4running Store
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-82450324@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260526T160000Z
 DTEND:20260526T170000Z
-SUMMARY:RS HYBRID · MACHEREI · 0/20
-DESCRIPTION:Anmeldungen: 0/20\nVerfügbar: 20\nQuellen: Direct: 20\nStadt: München
+SUMMARY:RS HYBRID · MACHEREI · 0 Anmeldungen
+DESCRIPTION:0 Anmeldungen\nDirect: 20\nMünchen
 LOCATION:Macherei Innenhof/Rooftop
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-83871668@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260527T163000Z
 DTEND:20260527T174500Z
-SUMMARY:RS FIGHT · BERLIN · 0/75
-DESCRIPTION:Anmeldungen: 0/75\nVerfügbar: 75\nStadt: Berlin
+SUMMARY:RS FIGHT · BERLIN · 0 Anmeldungen
+DESCRIPTION:0 Anmeldungen\nBerlin
 LOCATION:Friedrichsbrücke
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-84412146@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260529T163000Z
 DTEND:20260529T173000Z
-SUMMARY:RS POWER · MUNICH · 0/45
-DESCRIPTION:Anmeldungen: 0/45\nVerfügbar: 45\nQuellen: Direct: 1\nStadt: München
+SUMMARY:RS POWER · MUNICH · 0 Anmeldungen
+DESCRIPTION:0 Anmeldungen\nDirect: 1\nMünchen
 LOCATION:Sportanlage Schyrenbad\, Sachsenstr. 2
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-83900029@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260531T080000Z
 DTEND:20260531T093000Z
-SUMMARY:RS LONGFIGHT · MUNICH · 0/50
-DESCRIPTION:Anmeldungen: 0/50\nVerfügbar: 50\nQuellen: Direct: 1\nStadt: München
+SUMMARY:RS LONGFIGHT · MUNICH · 0 Anmeldungen
+DESCRIPTION:0 Anmeldungen\nDirect: 1\nMünchen
 LOCATION:Suuapinga Leopoldstrasse
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-84969979@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260601T163000Z
 DTEND:20260601T174500Z
-SUMMARY:RS FIGHT · MUNICH · 0/75
-DESCRIPTION:Anmeldungen: 0/75\nVerfügbar: 75\nQuellen: Direct: 1\nStadt: München
+SUMMARY:RS FIGHT · MUNICH · 0 Anmeldungen
+DESCRIPTION:0 Anmeldungen\nDirect: 1\nMünchen
 LOCATION:top4running Oberanger
 END:VEVENT
 BEGIN:VEVENT
 UID:eversports-83871669@runningsociety.de
-DTSTAMP:20260505T200659Z
+DTSTAMP:20260505T201147Z
 DTSTART:20260603T163000Z
 DTEND:20260603T174500Z
-SUMMARY:RS FIGHT · BERLIN · 0/75
-DESCRIPTION:Anmeldungen: 0/75\nVerfügbar: 75\nStadt: Berlin
+SUMMARY:RS FIGHT · BERLIN · 0 Anmeldungen
+DESCRIPTION:0 Anmeldungen\nBerlin
 LOCATION:Friedrichsbrücke
 END:VEVENT
 END:VCALENDAR
